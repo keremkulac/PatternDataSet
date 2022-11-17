@@ -19,5 +19,19 @@
     "height": "8.09",
     "hit": "781",
     "pattern_url": "https://raw.githubusercontent.com/keremkulac/PatternDataSet/main/4B00045N.png"
+  },
+  {
+    "name": "12Y0039S",
+    "width": "12.57",
+    "height": "21.89",
+    "hit": "3705",
+    "pattern_url": "https://raw.githubusercontent.com/keremkulac/PatternDataSet/main/12Y0039S.png"
+  },
+  {
+    "name": "8B00029",
+    "width": "5.62",
+    "height": "3.22",
+    "hit": "351",
+    "pattern_url": "https://raw.githubusercontent.com/keremkulac/PatternDataSet/main/8B00029.png"
   }
 ]
